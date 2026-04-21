@@ -32,15 +32,17 @@ This project is a **Content-Based Movie Recommendation System** that suggests to
 
 ---
 
-## ▶️ How to Run
+# ▶️ How to Run
 
-```bash
-pip install -r requirements.txt
+bash
+pip install -r requirements.txt 
+---
 python main.py
+---
 
-##💻 Sample Output
+## 💻 Sample Output
 
-Hello, enter your movie name: avatar
+Hello, enter your movie name : avatar
 
 🎬 These are your recommended movies:
 
@@ -49,19 +51,26 @@ Hello, enter your movie name: avatar
 3) The Dark Knight
 4) Inception
 5) Interstellar
+----
+   ## 📸 Output Screenshot:
+ <img width="1920" height="1080" alt="Screenshot 2026-04-21 144044" src="https://github.com/user-attachments/assets/6e05f54b-bed6-4f17-8369-bc22d54a250a" />
+ ----
 
-## 📸 Output Screenshot
-c:\Users\USER\OneDrive\Pictures\Screenshots\Screenshot 2026-04-21 144044.png
-c:\python\movie_recomandation_system\output_image\output.png
 
 ## 📊 Dataset
 
-TMDB 5000 Movies Dataset
-##👩‍💻 Author
-
-Kalyani
-
+TMDB 5000 Movies Dataset.
+Due to file size limitations, the dataset is not included in this repository.
+You can download it from:
+https://www.kaggle.com/datasets/tmdb/tmdb-movie-metada
+-----
 ## 🌟 Future Improvements
-Add movie posters
-Build web app using Streamlit
-Improve recommendation accuracy
+Add movie posters,
+Build web app using Streamlit,
+Improve recommendation accuracy.
+----
+## 👩‍💻 Author  
+Kalyani
+---
+
+ 
